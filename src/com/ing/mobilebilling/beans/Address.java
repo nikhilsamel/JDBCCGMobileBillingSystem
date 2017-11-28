@@ -1,5 +1,6 @@
 package com.ing.mobilebilling.beans;
 public class Address {
+	//abcd
 	private int pinCode;
 	private String city, state;
 	public Address() {}
